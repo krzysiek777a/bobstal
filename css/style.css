@@ -1,0 +1,31 @@
+*
+{
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #373532;
+}
+
+.navbar-default
+{
+    background-color: #fff;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-default .navbar-nav>li>a
+{
+    color: #373532;
+    font-size: 14px;
+    text-transform: uppercase;
+}
+
+a.navbar-brand
+{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.navbar-brand img
+{
+    height: 30px;
+}
